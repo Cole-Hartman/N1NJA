@@ -6,6 +6,7 @@
 
 ## Contents
 - [About](#about)
+- [Parts List](#parts-list)
 - [Build Process](#build-process)
 - [Install OS](#install-os)
 

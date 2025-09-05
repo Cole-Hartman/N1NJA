@@ -3,17 +3,19 @@
 <!-- <img src="./assets/finalproduct.jpg" width="300"> -->
 
 ## Contents
-[About](#about)
-[Build Process](#build-process)
-[Install OS](#install-os)
+- [About](#about)
+- [Build Process](#build-process)
+- [Install OS](#install-os)
 
 ## About
-*This NAS will feature...*
+**This NAS will feature...**
+
 TrueNAS Scale OS
 A compact M-ITX build featuring a Jonsbo N2 case for comfort and room for upgrades
 ? initial drives
 
-*This NAS will provide...*
+**This NAS will provide...**
+
 A secure, scalable, and automated hub for all data from my lifetime (photo, video, etc.)
 Potentially a home audio / video streaming service
 

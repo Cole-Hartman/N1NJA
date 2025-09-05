@@ -10,7 +10,7 @@
 ## About
 **This NAS will feature...**
 
-- TrueNAS Scale OS
+- TrueNAS Scale OS with ZFS file management
 - A compact M-ITX build featuring a Jonsbo N2 case for comfort and room for upgrades
 - ? initial drives
 

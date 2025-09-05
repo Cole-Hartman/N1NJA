@@ -1,6 +1,6 @@
 # NAS-Build
 
-<!-- <img src="./assets/finalproduct.jpg" width="300"> -->
+<img src="./assets/n3case.webp" width="350">
 
 ## Contents
 - [About](#about)

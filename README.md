@@ -1,7 +1,8 @@
-# NAS-Build
-
-<img src="./assets/n3case.webp" width="350">
-<img src="./assets/n3case2.webp" width="350">
+# NAS Nano
+<div>
+  <img src="./assets/n3case.webp" width="350">
+  <img src="./assets/n3case2.webp" width="350">
+</div>
 
 ## Contents
 - [About](#about)
@@ -19,6 +20,7 @@
 **This NAS will provide...**
 
 - A secure, scalable, and automated hub for all data from my lifetime (photo, video, etc.)
+- Self hosted password manager
 - Potentially a home audio / video streaming service
 
 ## Parts list

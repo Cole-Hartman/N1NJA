@@ -1,4 +1,9 @@
 # NAS Nano
+
+> My personal cloud platform and digital ecosystem — keeping my data safe, accessible, and automated
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=500&random=true&width=435&lines=Freedom;Ownership;Open+Source;Privacy;Backup;Limitless;Automated;Scalable;Protected;Independent;Control)](https://git.io/typing-svg)
+
 <div>
   <img src="./assets/n3case.webp" width="350">
   <img src="./assets/n3case2.webp" width="350">

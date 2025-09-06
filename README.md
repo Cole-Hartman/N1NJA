@@ -11,18 +11,19 @@
 - [Install OS](#install-os)
 
 ## About
-**This NAS will feature...**
+**Why**
+- [Cloud storage = renting your data forever](https://www.google.com/aclk?sa=L&ai=DChsSEwjd8rWKtsOPAxWzM0QIHaI0EUMYACICCAEQABoCZHo&ae=2&co=1&ase=2&gclid=CjwKCAjwlOrFBhBaEiwAw4bYDVFJtEVmHAiWWus9C_fR6T9uFj8nsmqRqwuAlSRycUebBu9VIe9daxoCo-wQAvD_BwE&cid=CAASJeRoM32ydEo4Mj6KEJXtGzYshves0OKPl_nKTWlpffLx7Kn6RNc&cce=2&category=acrcp_v1_71&sig=AOD64_38ICUXGpzQKsSPhOBgZoR0--2NYw&q&nis=4&adurl&ved=2ahUKEwjV5LCKtsOPAxXfOkQIHXtSJNYQ0Qx6BAgLEAE)
 
+**This NAS will provide...**
+- A secure, scalable, and automated personal cloud & file manager
+- Self hosted password manager w/ private, encrypted credential storage
+- Potentially a home media streaming server for movies, TV shows, and music
+- ...
+
+**This NAS will feature...**
 - TrueNAS Scale OS with ZFS file management
 - A compact M-ITX build featuring a Jonsbo N3 case for comfort and room for upgrades
 - 16TB of storage to start
-
-
-**This NAS will provide...**
-
-- A secure, scalable, and automated hub for all data from my lifetime (photo, video, etc.)
-- Self hosted password manager
-- Potentially a home audio / video streaming service
 
 **Resources**
 - [Chuen NAS Build](https://www.youtube.com/watch?v=XXKppFyHtHk&ab_channel=ChuenL)

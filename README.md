@@ -30,6 +30,11 @@
 - A compact M-ITX build in a Jonsbo N3 case with room for expansion
 - An initial 16TB of storage
 
+**Next Upgrade**
+- Drive replacement: WD Red Pro 8TB ~ 6 years (2031)
+- Drive addition: TBD
+- NAS refresh for new hardware ~ 10 years (2035)
+
 # Parts list
 | Part | Name | Price | Notes |
 |:-|:-|:-| :-|
@@ -68,6 +73,9 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 - Another good option is to store redundant offline drives that you rotate frequently
 
 ## Random Stuff
+<details>
+<summary><b></b></summary>
+
 - https://github.com/JoeSchmuck/Multi-Report
 - https://diskprices.com/
 
@@ -76,3 +84,5 @@ Builds
 - [NASCompares N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
 - [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)
 - [Jonsbo N3 ITX NAS Build](https://www.youtube.com/watch?v=gZPACoNSrhU&ab_channel=ConfigCraft)
+
+</details>

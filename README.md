@@ -4,7 +4,7 @@
   <img src="./assets/n3case2.webp" width="350">
 </div>
 
-## Contents
+## Index
 - [About](#about)
 - [Parts List](#parts-list)
 - [Build Process](#build-process)
@@ -24,11 +24,6 @@
 - TrueNAS Scale OS with ZFS file management
 - A compact M-ITX build featuring a Jonsbo N3 case for comfort and room for upgrades
 - 16TB of storage to start
-
-**Resources**
-- [Chuen NAS Build](https://www.youtube.com/watch?v=XXKppFyHtHk&ab_channel=ChuenL)
-- [NASCompares N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
-- [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)
 
 ## Parts list
 | Part | Name | Price | Buy | Notes |
@@ -60,3 +55,9 @@
 ## Random Stuff
 - https://github.com/JoeSchmuck/Multi-Report
 - https://diskprices.com/
+
+**Resources**
+- [Chuen NAS Build](https://www.youtube.com/watch?v=XXKppFyHtHk&ab_channel=ChuenL)
+- [NASCompares N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
+- [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)
+- [Jonsbo N3 ITX NAS Build](https://www.youtube.com/watch?v=gZPACoNSrhU&ab_channel=ConfigCraft)

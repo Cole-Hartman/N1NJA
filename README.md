@@ -8,13 +8,14 @@
   <img src="./assets/n3case2.webp" width="350">
 </div>
 
-## Index
+# Index
 - [About](#about)
 - [Parts List](#parts-list)
-- [Build Process](#build-process)
+- [Build](#build)
 - [Configuration](#configuration)
+- [Backup](#backup)
 
-## About
+# About
 **Why**
 - [Cloud storage = renting your data forever](https://www.google.com/aclk?sa=L&ai=DChsSEwjd8rWKtsOPAxWzM0QIHaI0EUMYACICCAEQABoCZHo&ae=2&co=1&ase=2&gclid=CjwKCAjwlOrFBhBaEiwAw4bYDVFJtEVmHAiWWus9C_fR6T9uFj8nsmqRqwuAlSRycUebBu9VIe9daxoCo-wQAvD_BwE&cid=CAASJeRoM32ydEo4Mj6KEJXtGzYshves0OKPl_nKTWlpffLx7Kn6RNc&cce=2&category=acrcp_v1_71&sig=AOD64_38ICUXGpzQKsSPhOBgZoR0--2NYw&q&nis=4&adurl&ved=2ahUKEwjV5LCKtsOPAxXfOkQIHXtSJNYQ0Qx6BAgLEAE)
 
@@ -29,7 +30,7 @@
 - A compact M-ITX build in a Jonsbo N3 case with room for expansion
 - An initial 16TB of storage
 
-## Parts list
+# Parts list
 | Part | Name | Price | Notes |
 |:-|:-|:-| :-|
 | **AliExpress** | | | |
@@ -52,18 +53,25 @@
 As of Sep 2025
 
 
-## Build Process 
+## Build
 <!-- <p>Install the controller / OLED bases, reset button, trrs jack, controller, and oled.</p> -->
 <!-- <p>For the controller use the gold pins and for the OLED use 0.5mm copper wire</p> -->
 <!-- <img src="./assets/topcomponents.jpg" width="300" /> -->
 
-## onfiguration
+## Configuration
+
+## Backup
+> A home NAS is not a backup, it is primary data storage
+
+I will be going with a cloud computer backup - [Backblaze](https://www.backblaze.com/cloud-backup/personal)
+- Full NAS backup for a fixed $9 / month, as of Sep 2025
+- Another good option is to store redundant offline drives that you rotate frequently
 
 ## Random Stuff
 - https://github.com/JoeSchmuck/Multi-Report
 - https://diskprices.com/
 
-**Builds**
+Builds
 - [Chuen NAS Build](https://www.youtube.com/watch?v=XXKppFyHtHk&ab_channel=ChuenL)
 - [NASCompares N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
 - [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)

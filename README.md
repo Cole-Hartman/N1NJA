@@ -27,7 +27,7 @@
 
 **This NAS will feature...**
 - TrueNAS Scale OS with ZFS file management
-- A compact M-ITX build featuring a Jonsbo N3 case for comfort and room for upgrades
+- A compact M-ITX build in a Jonsbo N3 case for comfort + room for upgrades
 - 16TB of storage to start
 
 ## Parts list

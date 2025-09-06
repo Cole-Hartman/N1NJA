@@ -38,9 +38,6 @@
 # Parts list
 | Part | Name | Price | Notes |
 |:-|:-|:-| :-|
-| **AliExpress** | | | |
-| Case | [Jonsbo N3 M-ITX 8 Bay](https://www.ebay.com/itm/306484637720) | $155 | Comes with 2 100mm HDD fans, fine for now |
-| | |$12 tax | |
 | **Amazon** | | |
 | Motherboard | [ASUS PRIME H610I-PLUS](https://www.amazon.com/ASUS-PRIME-H610I-PLUS-Motherboard-Mono-out/dp/B09XJQTQN1/ref=sr_1_1?crid=39LFB6UCM3GCK&dib=eyJ2IjoiMSJ9.j5Yw_YU_zxnkaY91q09RsHWbfm3Dc-OPQGDl6mrRyl_JdVGAwkv2iUwS6dwA3FquI-C9iFzxonZY4tLWnU1sCE2tbEmq15Ns-1hla7ofxlwtAc584sTed-xa09f0VD95MZ9pJVmPCRZnbf_y400H3GVYSbV65BRfHH-KWxyIbfciQDOiBUDopUSTR6ncrNVtL217hJsHatmIG1v4xa8kE_zFAnpq9O_uaoUClqV2Yxc.lmpkfZYz1GM-BCjJaZDZRUe11p3htWNurU-Bs4gRydc&dib_tag=se&keywords=ASUS+PRIME+H610I-PLUS+4+SATA&qid=1757113365&sprefix=asus+prime+h610i-plus+4+sata%2Caps%2C258&sr=8-1&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666) | $113 | Supports integrated graphics, was used in recent N1 build |
 | CPU | [Intel Pentium Gold G7400 Dual-core (2 Core) 3.70 GHz Processor](https://www.amazon.com/Intel-Pentium-G7400-Dual-core-Processor/dp/B09Q87W31F/ref=sr_1_1?crid=3N4X3DQUF7F0C&dib=eyJ2IjoiMSJ9.f9SG6SfxVabSpig4qdOcvIjYie7Sy6EFQL1wkzUeDHH5p5hGUxIOQMckYDv3axE8M8ceO4kuWY7hHFymTxXpqSMY_AlKGP92VWGduW859Gjh5OCEz2P1WbliZPv9CD3EUBMThxFzaXHjMP_Hz-Y2PAB8zLwuUXjF-DANtvWM46Fo7g2AAm4wsx-_uUB_lIrP6kLyRZF2oWWCT1yu11haesowswWSqRrZhDlfKjtsWnw.ZkQPUCqtPAgtxkVgQumSex8IBb6v_0s9lq1hrQ6RkFw&dib_tag=se&keywords=Intel+Pentium+Gold+G7400+Dual-core+%282+Core%29+3.70+GHz+Processor+-+Retail+Pack&qid=1757183782&sprefix=intel+pentium+gold+g7400+dual-core+2+core+3.70+ghz+processor+-+retail+pack%2Caps%2C202&sr=8-1) | $70 | Integrated Graphics, comes with cooler |
@@ -50,8 +47,9 @@
 | SATA Cables | [3-Pack 90 Degree SATA Cable - 18 Inch](https://www.amazon.com/Cable-Matters-3-Pack-Degree-Right/dp/B018Y2LEBE/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.yBTbe_B6Fd3gQobKzqSSzYafsi24jGyzSP_yihGMzXbSJ1HoQoXeV-bioZjY1Zzu0C8qQPM6yP8LBGYpRnV2CUut62rUAbxSRYhuLHBfEEyxqrzonKO8EZ2DqPQrEq38230MRTkfcBKBz1yNCzYQniXH_Ef876XWUxK3cJuFW0L2mPDqVUQ6ZX5wb8PSEgQYSxnSSk2HY9aid5YumoWgstxLvGx_UH4XYC0rrWQQBbU.xd8c23i_dHl9w3pjJZL9KVra5CZc4s111Ld_dQFD8ko&dib_tag=se&keywords=cable%2Bmatters%2Bsata%2B6gbps%2B18%2Binch&qid=1757139177&sr=8-2-spons&utm_source=chatgpt.com&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | $6 | |
 | | | $26 tax | |
 | **Ebay** | | | |
+| Case | [Jonsbo N3 M-ITX 8 Bay](https://www.ebay.com/itm/306484637720) | $155 | Comes with 2 100mm HDD fans, fine for now |
 | Drives | 2 x WD Red Pro 8TB WD8001FFWX [LINK1](https://www.ebay.com/itm/267217302405) [LINK2](https://www.ebay.com/itm/286707247051) | $221 | CMR > SMR |
-| | |$21 tax + ship  | |
+| | |$33 tax + ship  | |
 
 **NAS TOTAL = $531** | **NAS + DRIVES TOTAL = $773**
 

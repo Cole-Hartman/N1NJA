@@ -26,7 +26,8 @@
 
 **Resources**
 - [Chuen NAS Build](https://www.youtube.com/watch?v=XXKppFyHtHk&ab_channel=ChuenL)
-- [NASCompares Jonsbo N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
+- [NASCompares N3 Build](https://www.youtube.com/watch?v=GNMtmUOCtwI&t=12s&ab_channel=NASCompares)
+- [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)
 
 ## Parts list
 | Part | Name | Price | Buy | Notes |

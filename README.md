@@ -1,6 +1,6 @@
 # NAS Nano
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&vCenter=true&pause=500&random=true&width=435&height=20&lines=Private+Cloud;Securely+Backed+Up;Always+Accessible;Fully+Automated;Built+to+Scale;Self+Hosted;Your+Data+Your+Control;Future+Proof)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&vCenter=true&pause=500&random=true&width=435&height=24&lines=Private+Cloud;Securely+Backed+Up;Always+Accessible;Fully+Automated;Built+to+Scale;Self+Hosted;Your+Data+Your+Control;Future+Proof)](https://git.io/typing-svg)
 > My personal cloud platform and digital ecosystem — keeping my data safe, accessible, and automated
 
 <div>
@@ -72,7 +72,7 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 
 ## Random Stuff
 <details>
-<summary><b></b></summary>
+<summary><b>More</b></summary>
 
 - https://github.com/JoeSchmuck/Multi-Report
 - https://diskprices.com/

@@ -72,7 +72,7 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 
 ## Random Stuff
 <details>
-<summary><b>More</b></summary>
+<summary>More</summary>
 
 - https://github.com/JoeSchmuck/Multi-Report
 - https://diskprices.com/

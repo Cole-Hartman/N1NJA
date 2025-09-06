@@ -72,7 +72,7 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 - Full NAS backup for a fixed $9 / month, as of Sep 2025
 - Another good option is to store redundant offline drives that you rotate frequently
 
-## Random Stuff
+## Resources
 <details>
 <summary>More</summary>
 

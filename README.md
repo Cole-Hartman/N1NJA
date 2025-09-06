@@ -12,7 +12,7 @@
 - [About](#about)
 - [Parts List](#parts-list)
 - [Build Process](#build-process)
-- [Install OS](#install-os)
+- [Configuration](#configuration)
 
 ## About
 **Why**
@@ -57,14 +57,7 @@ As of Sep 2025
 <!-- <p>For the controller use the gold pins and for the OLED use 0.5mm copper wire</p> -->
 <!-- <img src="./assets/topcomponents.jpg" width="300" /> -->
 
-## Install OS
-<!-- <a href="https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3">QMK Configurator</a> -->
-<!-- <p>Select keyoard, change layout if desired, and download firmware.</p> -->
-<!-- <a href="https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3">QMK Toolbox</a> -->
-<!-- <p>Download software (windows or mac), hit reset button, flash.</p> -->
-<!-- <p>Unplug, plug in other half, hit reset button, flash.</p> -->
-<!-- <p>Done!</p> -->
-<!-- <img src="./assets/firmware.jpg" width="300" /> -->
+## onfiguration
 
 ## Random Stuff
 - https://github.com/JoeSchmuck/Multi-Report

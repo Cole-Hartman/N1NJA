@@ -56,9 +56,9 @@
 
 As of Sep 2025
 
-**NAS TOTAL = $**
+**NAS TOTAL = 515$**
 
-**NAS + DRIVES TOTAL = $**
+**NAS + DRIVES TOTAL =  769$**
 
 
 ## Build

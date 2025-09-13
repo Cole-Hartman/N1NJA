@@ -22,13 +22,13 @@
 **Why**
 - [**Cloud storage** = **renting your data indefinitely** + **high price tag**](https://www.google.com/aclk?sa=L&ai=DChsSEwjd8rWKtsOPAxWzM0QIHaI0EUMYACICCAEQABoCZHo&ae=2&co=1&ase=2&gclid=CjwKCAjwlOrFBhBaEiwAw4bYDVFJtEVmHAiWWus9C_fR6T9uFj8nsmqRqwuAlSRycUebBu9VIe9daxoCo-wQAvD_BwE&cid=CAASJeRoM32ydEo4Mj6KEJXtGzYshves0OKPl_nKTWlpffLx7Kn6RNc&cce=2&category=acrcp_v1_71&sig=AOD64_38ICUXGpzQKsSPhOBgZoR0--2NYw&q&nis=4&adurl&ved=2ahUKEwjV5LCKtsOPAxXfOkQIHXtSJNYQ0Qx6BAgLEAE)
 
-**This NAS will provide...**
+**This NAS will provide**
 - A secure, scalable, and automated personal cloud & file manager
 - Self hosted password manager w/ private, encrypted credential storage
 - Potentially a home media streaming server for movies, TV shows, and music
 - ...
 
-**This NAS will feature...**
+**This NAS will feature**
 - TrueNAS Scale OS with ZFS file management
 - A compact M-ITX build in a Jonsbo N1 case
 - An initial 16TB of storage

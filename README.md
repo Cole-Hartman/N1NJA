@@ -78,8 +78,8 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 <details>
 <summary>More</summary>
 
+- [HDD Prices](https://diskprices.com/)
 - https://github.com/JoeSchmuck/Multi-Report
-- https://diskprices.com/
 
 Builds
 - [estevez N1 Build](https://www.reddit.com/r/HomeServer/comments/1l32zlv/i_built_a_nas/)

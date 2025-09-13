@@ -1,12 +1,12 @@
-# 0xN3
+# N1NJA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&vCenter=true&pause=500&random=true&width=435&height=30&lines=Private+Cloud;Securely+Backed+Up;Always+Accessible;Fully+Automated;Built+to+Scale;Self+Hosted;Your+Data+Your+Control;Future+Proof)](https://git.io/typing-svg)
 > My personal cloud platform and digital ecosystem — keeping my data safe, accessible, and automated
 
 <div
 <div>
-  <img src="./assets/n3case.webp" width="350">
-  <img src="./assets/n3case2.webp" width="350">
+<!--   <img src="./assets/n3case.webp" width="350">
+  <img src="./assets/n3case2.webp" width="350"> -->
 </div>
 <img src="./assets/p1cmgfrbquj51.jpg" width="700">
 </div>

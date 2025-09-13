@@ -1,7 +1,7 @@
 # N1NJA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&vCenter=true&pause=500&random=true&width=435&height=30&lines=Private+Cloud;Securely+Backed+Up;Always+Accessible;Fully+Automated;Built+to+Scale;Self+Hosted;Your+Data+Your+Control;Future+Proof)](https://git.io/typing-svg)
-> My personal cloud platform and digital ecosystem
+> My personal cloud platform
 
 <div
 <div>

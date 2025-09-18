@@ -77,7 +77,7 @@ I will be going with a cloud computer backup - [Backblaze](https://www.backblaze
 ## Resources
 <details>
 <summary>More</summary>
-
+- [FUTO Self Managed Guide](https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software)
 - [HDD Prices](https://diskprices.com/)
 - https://github.com/JoeSchmuck/Multi-Report
 - [Server dashboard](https://dashy.to/)

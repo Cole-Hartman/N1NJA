@@ -56,9 +56,9 @@
 <!-- | Drives | 2 x WD Red Pro 8TB WD8001FFWX [LINK1](https://www.ebay.com/itm/267217302405) [LINK2](https://www.ebay.com/itm/286707247051) | $221 | CMR > SMR, 3.5" | !-->
 <!-- | | |$33 tax + ship  | | !-->
 
-**NAS TOTAL = 515$**
+**NAS TOTAL = $515**
 
-**DRIVES TOTAL =  215$**
+**DRIVES TOTAL = $215**
 
 _As of Sep 2025_
 

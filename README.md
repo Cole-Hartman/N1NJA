@@ -50,13 +50,15 @@
 | Boot SSD (NVMe) | [Patriot Memory P320 128GB](https://www.amazon.com/Patriot-P320-128GB-Internal-SSD/dp/B0D4RD18YV/ref=sr_1_5?crid=30SJVP6YUOR0A&dib=eyJ2IjoiMSJ9.AuUdwiEvQjxl6-O8arMSRacmYP7Epn806LGyiSjFukJgfQUERhsVN4_Gdhsp3klDYhOKq1008zC_Cvzyz3qAYbswYte14GiLjX4-Bkk6E3Yef9vE37FoJylB5Nab5McxiFoJ-wcq5Lhw_w2QoSeYmEusbpuElEDBgzXtkxfXf-f_ecav4KwL2M0X1DJzsg4YA2lcIGdlB0voP0UUEi-TKVF1kq2_SbXuzxc0OvocEfU.wNcctVda978FTY9JJpOIJ5is31RWr1gUgZ0Q5OrZBgE&dib_tag=se&keywords=nvme%2Bssd&qid=1757120200&sprefix=nvme%2Bssd%2Caps%2C234&sr=8-5&th=1) | $16 | TrueNAS needs bootdrive |
 | SATA Cables | [3-Pack 90 Degree SATA Cable - 18 Inch](https://www.amazon.com/Cable-Matters-3-Pack-Degree-Right/dp/B018Y2LEBE/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.yBTbe_B6Fd3gQobKzqSSzYafsi24jGyzSP_yihGMzXbSJ1HoQoXeV-bioZjY1Zzu0C8qQPM6yP8LBGYpRnV2CUut62rUAbxSRYhuLHBfEEyxqrzonKO8EZ2DqPQrEq38230MRTkfcBKBz1yNCzYQniXH_Ef876XWUxK3cJuFW0L2mPDqVUQ6ZX5wb8PSEgQYSxnSSk2HY9aid5YumoWgstxLvGx_UH4XYC0rrWQQBbU.xd8c23i_dHl9w3pjJZL9KVra5CZc4s111Ld_dQFD8ko&dib_tag=se&keywords=cable%2Bmatters%2Bsata%2B6gbps%2B18%2Binch&qid=1757139177&sr=8-2-spons&utm_source=chatgpt.com&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | $6 | |
 | | | $37 tax | |
-| **Ebay** | | | |
-| Drives | 2 x WD Red Pro 8TB WD8001FFWX [LINK1](https://www.ebay.com/itm/267217302405) [LINK2](https://www.ebay.com/itm/286707247051) | $221 | CMR > SMR, 3.5" |
-| | |$33 tax + ship  | |
+| **Micro Center** | | | |
+| Drives | [2 x Seagate Ironwolf 4TB NAS HDD ST4000VNZ06](https://www.microcenter.com/product/690298/seagate-ironwolf-4tb-5400-rpm-sata-iii-6gb-s-35-internal-nas-cmr-hard-drive) | $200 | CMR > SMR, 3.5" |
+| | | $15 tax | |
+<!-- | Drives | 2 x WD Red Pro 8TB WD8001FFWX [LINK1](https://www.ebay.com/itm/267217302405) [LINK2](https://www.ebay.com/itm/286707247051) | $221 | CMR > SMR, 3.5" | !-->
+<!-- | | |$33 tax + ship  | | !-->
 
 **NAS TOTAL = 515$**
 
-**NAS + DRIVES TOTAL =  769$**
+**DRIVES TOTAL =  215$**
 
 _As of Sep 2025_
 

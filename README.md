@@ -72,9 +72,7 @@ _As of Sep 2025_
 ## Backup
 > A home NAS is not a backup, it is primary data storage
 
-I will be going with a cloud computer backup - [Backblaze](https://www.backblaze.com/cloud-backup/personal)
-- Full NAS backup for a fixed $9 / month, as of Sep 2025
-- Another good option is to store redundant offline drives that you rotate frequently
+[Backblaze](https://www.backblaze.com/cloud-backup/personal)](https://www.backblaze.com/cloud-storage)
 
 ## Resources
 <details>

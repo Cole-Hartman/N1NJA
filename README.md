@@ -77,7 +77,7 @@ _As of Sep 2025_
 
 Automatic [Backblaze](https://www.backblaze.com/cloud-storage) sync
 
-## System Monitoring
+## Automated System Monitoring
 - SMART Tests (daily short + weekly long drive health checks, emailed results)
 - ZFS Scrubs (monthly pool integrity verification with reports)
 - Cloud Sync Tasks (automated Backblaze B2 sync with success/failure logs)

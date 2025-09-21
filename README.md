@@ -15,6 +15,7 @@
 - [Parts List](#parts-list)
 - [Build](#build)
 - [Backup](#backup)
+- [Automated System Monitoring](#automated-system-monitoring)
 
 # About
 **Why**

@@ -4,10 +4,10 @@
 
 <div
 <div>
-  <img src="./assets/n1open.webp" width="350">
-  <img src="./assets/n1closed.webp" width="350">
+  <img src="./assets/3.jpeg" width="350">
+  <img src="./assets/5.jpeg" width="350">
 </div>
-<!-- <img src="./assets/p1cmgfrbquj51.jpg" width="700"> -->
+  <img src="./assets/dash.png" width="700">
 </div>
 
 # Index
@@ -57,7 +57,11 @@
 _As of Sep 2025_
 
 ## Build
-
+<div>
+  <img src="./assets/1.jpeg" width="350">
+  <img src="./assets/2.jpeg" width="350">
+  <img src="./assets/4.jpeg" width="350">
+</div>
 
 ## Backup
 > A home NAS is not a backup, it is primary data storage

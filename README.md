@@ -22,7 +22,7 @@
 
 **This NAS provides**
 - A secure, scalable, and automated personal cloud & file manager
-- [Immich](https://demo.immich.app/) media management
+- [Immich](https://demo.immich.app/) photo & video management
 - TBD
 
 **This NAS features**

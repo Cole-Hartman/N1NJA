@@ -75,7 +75,13 @@ _As of Sep 2025_
 ## Backup
 > A home NAS is not a backup, it is primary data storage
 
-[Backblaze](https://www.backblaze.com/cloud-storage)
+Automatic [Backblaze](https://www.backblaze.com/cloud-storage) sync
+
+## System Monitoring
+- SMART Tests (daily short + weekly long drive health checks, emailed results)
+- ZFS Scrubs (monthly pool integrity verification with reports)
+- Cloud Sync Tasks (automated Backblaze B2 sync with success/failure logs)
+- System Health Reports
 
 ## Resources
 <details>

@@ -1,6 +1,6 @@
 # N1X
 
-> My personal cloud platform
+> My personal cloud
 
 <div
 <div>
@@ -23,6 +23,7 @@
 **This NAS provides**
 - A secure, scalable, and automated personal cloud & file manager
 - [Immich](demo.immich.app) media management
+- TBD
 
 **This NAS features**
 - TrueNAS Scale OS with ZFS file management
@@ -59,14 +60,22 @@ _As of Sep 2025_
 ## Build
 <div>
   <img src="./assets/1.jpeg" width="350">
+    <img src="./assets/6.png" width="350">
+  <img src="./assets/11.png" width="350">
+
   <img src="./assets/2.jpeg" width="350">
-  <img src="./assets/4.jpeg" width="350">
+      <img src="./assets/14.png" width="350">
+
+  <img src="./assets/9.png" width="350">
+  <img src="./assets/8.png" width="350">
+
+  <img src="./assets/13.png" width="350">
 </div>
 
 ## Backup
 > A home NAS is not a backup, it is primary data storage
 
-[Backblaze](https://www.backblaze.com/cloud-backup/personal)](https://www.backblaze.com/cloud-storage)
+[Backblaze](https://www.backblaze.com/cloud-storage)
 
 ## Resources
 <details>

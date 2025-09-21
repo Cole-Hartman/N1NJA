@@ -1,6 +1,5 @@
-# N1NJA
+# N1X
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&vCenter=true&pause=500&random=true&width=435&height=30&lines=Private+Cloud;Securely+Backed+Up;Always+Accessible;Fully+Automated;Built+to+Scale;Self+Hosted;Your+Data+Your+Control;Future+Proof)](https://git.io/typing-svg)
 > My personal cloud platform
 
 <div
@@ -15,26 +14,23 @@
 - [About](#about)
 - [Parts List](#parts-list)
 - [Build](#build)
-- [Configuration](#configuration)
 - [Backup](#backup)
 
 # About
 **Why**
 - [**Cloud storage** = **renting your data indefinitely** + **high price tag**](https://www.google.com/aclk?sa=L&ai=DChsSEwjd8rWKtsOPAxWzM0QIHaI0EUMYACICCAEQABoCZHo&ae=2&co=1&ase=2&gclid=CjwKCAjwlOrFBhBaEiwAw4bYDVFJtEVmHAiWWus9C_fR6T9uFj8nsmqRqwuAlSRycUebBu9VIe9daxoCo-wQAvD_BwE&cid=CAASJeRoM32ydEo4Mj6KEJXtGzYshves0OKPl_nKTWlpffLx7Kn6RNc&cce=2&category=acrcp_v1_71&sig=AOD64_38ICUXGpzQKsSPhOBgZoR0--2NYw&q&nis=4&adurl&ved=2ahUKEwjV5LCKtsOPAxXfOkQIHXtSJNYQ0Qx6BAgLEAE)
 
-**This NAS will provide**
+**This NAS provides**
 - A secure, scalable, and automated personal cloud & file manager
-- Self hosted password manager w/ private, encrypted credential storage
-- Potentially a home media streaming server for movies, TV shows, and music
-- ...
+- [Immich](demo.immich.app) media management
 
-**This NAS will feature**
+**This NAS features**
 - TrueNAS Scale OS with ZFS file management
 - A compact M-ITX build in a Jonsbo N1 case
-- An initial 16TB of storage
+- An initial 8TB of storage
 
 **Next Upgrade**
-- Drive replacement: WD Red Pro 8TB ~ 6 years (2031)
+- Drive replacement: ~ 6 years (2031)
 - Drive addition: TBD
 - NAS refresh for new hardware ~ 10 years (2035)
 
@@ -56,18 +52,12 @@
 <!-- | Drives | 2 x WD Red Pro 8TB WD8001FFWX [LINK1](https://www.ebay.com/itm/267217302405) [LINK2](https://www.ebay.com/itm/286707247051) | $221 | CMR > SMR, 3.5" | !-->
 <!-- | | |$33 tax + ship  | | !-->
 
-**NAS TOTAL = $515**
-
-**DRIVES TOTAL = $215**
+**NAS TOTAL = $515** | **DRIVES TOTAL = $215**
 
 _As of Sep 2025_
 
 ## Build
-<!-- <p>Install the controller / OLED bases, reset button, trrs jack, controller, and oled.</p> -->
-<!-- <p>For the controller use the gold pins and for the OLED use 0.5mm copper wire</p> -->
-<!-- <img src="./assets/topcomponents.jpg" width="300" /> -->
 
-## Configuration
 
 ## Backup
 > A home NAS is not a backup, it is primary data storage
